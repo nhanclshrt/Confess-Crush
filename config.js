@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho vũ trụ giữ dùm 2d con <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Yup Nhân biết mà, iuuuu Sen nhìu, iuuu Sen 3000, 10000 luonn ❤',
-    messDesc: 'Nhân kh hứa là cả đời này iu Sen bên Sen hay gì gì đó nhma Nhân sẽ iu Sen, chân thành với Sen hơn ai hết ❤',
+    messDesc: 'Xong òi đó hehe, có gì Sen nhắn Nhân cái nha Nhân đợi Sen á :33',
     btnAccept: 'Kêla 💋',
     messLink: 'https://m.me/nhan.clshrt' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
